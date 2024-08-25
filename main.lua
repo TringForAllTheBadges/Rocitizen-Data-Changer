@@ -1,5 +1,4 @@
--- Script: game:GetService("Players").LocalPlayer.PlayerGui.CustomizeCharacter.CosmeticHandler
---USER: TringerForAllBadges (Banned for grooming underage kids)
+-- TringerForAllBadges (Banned for grooming underage kids)
 
 local v1 = {
 	["Hair2"] = "nil"   -- Enter hair ID (dosen't work)
