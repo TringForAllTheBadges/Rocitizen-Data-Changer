@@ -1,4 +1,4 @@
--- TringerForAllBadges (Banned for grooming underage kids)
+-- mxkxkks (Banned for grooming underage kids)
 
 local v1 = {
 	["Hair2"] = "nil"   -- Enter hair ID (dosen't work)
